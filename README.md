@@ -2,7 +2,7 @@
 
 ## Beschreibung 
 
-Der Baustein dient zur Kommunikation mit einer Netatmo Basis Station.
+Der Baustein liest ein ics File für die Müllabfuhr ein, und bereitet die Abholtermine auf den Ausgangen aus.
 
 ## Eingänge
 
