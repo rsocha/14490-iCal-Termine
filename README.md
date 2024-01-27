@@ -10,11 +10,11 @@ Der Baustein liest ein ics File für die Müllabfuhr ein, und bereitet die Abhol
 |-----|-------------|-----------------|---------------------------------------------------------------------------------------------------------|
 | 1   | E1 url      | 0               | Pfad zu dem ics File File                                                                               |
 | 2   | E2 Trigger  | 0               | Bei einem Wert <> 0 das File abgerufen.                                                                 |
-| 3   | E3 Name 1   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht. Es duerfen keine Umlaute vorkommen!   |
-| 4   | E4 Name 2   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht. Es duerfen keine Umlaute vorkommen!   |    
-| 5   | E5 Name 3   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht. Es duerfen keine Umlaute vorkommen!   |
-| 6   | E6 Name 4   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht. Es duerfen keine Umlaute vorkommen!   |
-| 7   | E7 Name 5   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht. Es duerfen keine Umlaute vorkommen!   |
+| 3   | E3 Name 1   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht.      |
+| 4   | E4 Name 2   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht.     |    
+| 5   | E5 Name 3   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht.     |
+| 6   | E6 Name 4   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht.     |
+| 7   | E7 Name 5   | 0               | Hier muss der Name stehen, der im ics File unter "Summery" steht.     |
 | 8   | E8 VWZ 1    | 0               | Eingabe in Tagen ab wann die "Vorwarnung" für den nächsten Termin an den Ausgängen erfolgen soll        |
 | 9   | E9 VWZ 2    | 0               | Eingabe in Tagen ab wann die "Vorwarnung" für den nächsten Termin an den Ausgängen erfolgen soll        |
 | 10  | E10 VWZ 3   | 0               | Eingabe in Tagen ab wann die "Vorwarnung" für den nächsten Termin an den Ausgängen erfolgen soll        |
@@ -49,7 +49,8 @@ Der Baustein liest ein ics File für die Müllabfuhr ein, und bereitet die Abhol
 - Kategorie: Datenaustausch
 
 ### Change Log
-
+ - v0.3
+   - Codierung für Umlaute
  - v0.2
    - div. Anpassungen
  - v0.1
