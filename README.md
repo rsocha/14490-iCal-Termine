@@ -49,6 +49,8 @@ Der Baustein liest ein ics File für die Müllabfuhr ein, und bereitet die Abhol
 - Kategorie: Datenaustausch
 
 ### Change Log
+ - v0.4
+   -  div. Anpassungen
  - v0.3
    - Codierung für Umlaute
  - v0.2
