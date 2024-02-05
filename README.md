@@ -4,6 +4,8 @@
 
 Der Baustein liest ein ics File für die Müllabfuhr ein, und bereitet die Abholtermine auf den Ausgangen aus.
 
+Spenden sind gerne [hier](https://www.paypal.com/paypalme/reinhardsocha) willkommen
+
 ## Eingänge
 
 | Nr. | Name        | Initialisierung | Beschreibung                                                                                            |
